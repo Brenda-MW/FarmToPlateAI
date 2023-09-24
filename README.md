@@ -31,8 +31,13 @@ You can activate this license starting from the day of the workshop up to a week
 MATLAB Online will try to automatically port over your workshop files from GitHub. You will see a dialog pop-up for saving and opening the repository of files.  
 
 1. Click on the checkbox to accept outside source code. 
-
 2. To access the files, click ``Save and Open``. 
+
+## Step IV. Verify Your Environment 
+
+To verify that your environment is correctly set up for the exercises: 
+1. In the MATLAB Online Command Window: >> FarmToPlate_Setup 
+2. Confirm that the welcome message is display
 
 ## Try out the exercises! 
 
