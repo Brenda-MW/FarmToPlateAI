@@ -28,6 +28,16 @@ The workshop uses MATLAB Online. You must activate the workshop license to parti
    
 You can activate this license starting from the day of the workshop up to a week after the workshop date. 
 
+To run these exercises without workshop license, you will need: 
+- MATLAB
+- Simulink
+- Deep Learning Toolbox
+- Statistics and Machine Learning Toolbox
+- Image Processing Toolbox
+- Computer Vision Toolbox
+- UAV Toolbox
+- Computer Vision Toolbox Model for YOLOv4 Object Detection Support Package
+
 ## Step III. Access Exercise Files 
 
 MATLAB Online will try to automatically port over your workshop files from GitHub. You will see a dialog pop-up for saving and opening the repository of files.  
