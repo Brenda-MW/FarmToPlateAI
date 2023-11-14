@@ -1,3 +1,5 @@
+[![Open in MATLAB Online](https://www.mathworks.com/images/responsive/global/open-in-matlab-online.svg)](https://matlab.mathworks.com/open/github/v1?repo=Brenda-MW/FarmToPlateAI)
+
 # Farm-to-Plate AI: Enhance Freshness and Reduce Waste with Robotics and Computer Vision​ 
 
 
@@ -25,6 +27,16 @@ The workshop uses MATLAB Online. You must activate the workshop license to parti
 2. Click ``Access MATLAB Online``.
    
 You can activate this license starting from the day of the workshop up to a week after the workshop date. 
+
+To run these exercises without workshop license, you will need: 
+- MATLAB
+- Simulink
+- Deep Learning Toolbox
+- Statistics and Machine Learning Toolbox
+- Image Processing Toolbox
+- Computer Vision Toolbox
+- UAV Toolbox
+- Computer Vision Toolbox Model for YOLOv4 Object Detection Support Package
 
 ## Step III. Access Exercise Files 
 
