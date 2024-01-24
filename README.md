@@ -23,7 +23,7 @@ A MathWorks account is required to access MATLAB Online and the material for thi
 ## Step II. Activate Workshop License  
 
 The workshop uses MATLAB Online. You must activate the workshop license to participate. 
-1. Using Google Chrome, navigate to https://www.mathworks.com/licensecenter/classroom/4183650/. If you are not already logged in, do so.
+1. Using Google Chrome, navigate to https://www.mathworks.com/licensecenter/classroom/4318250/. If you are not already logged in, do so.
 2. Click ``Access MATLAB Online``.
    
 You can activate this license starting from the day of the workshop up to a week after the workshop date. 
