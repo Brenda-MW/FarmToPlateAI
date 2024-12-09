@@ -55,4 +55,8 @@ To verify that your environment is correctly set up for the exercises:
 
 We are looking forward to your particpation in this workshop!
 
+## Keep in Touch
+Fill out our survey to receive a certificate and support for your outreach https://tinyurl.com/NeurIPS24survey
+Support #HandsOnAIForEveryone and #SheLovesMatlab on social media!
+
 Farm-to-Plate AI Workshop Team 
